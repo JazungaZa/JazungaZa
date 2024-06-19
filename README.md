@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Android app development;
 - 📫 How to reach me{ 
     habijanic.ah@gmail.com , 
-    jazunga.za@gmail.com
+    https://www.linkedin.com/in/amalia-habijanic-223726254/
     }
     
   
