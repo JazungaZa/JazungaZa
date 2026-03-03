@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amalia;
 - 🌱 I’m currently learning Android app development;
 - ✨ My Mc2 Project https://youtu.be/JcgX82qq-lk?t=4746
-- ✨ My first website project https://mattdetailing.com
+- ✨ My first published android app  https://play.google.com/store/apps/details?id=com.habijanic.rootsandsquaresmathematics&pli=1
 - 📫 How to reach me{ 
     habijanic.ah@gmail.com , 
     https://www.linkedin.com/in/amalia-habijanic-223726254/
